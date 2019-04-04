@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* CSS Document */
+.heroElevator {
+    text-align: left;
+}
+.hiYell {
+    background: #FFF907;
+}
+.hiDblu {
+    background: #050038;
+}
+.hiBlue {
+    background: #4B59EE;
+}
+.hiRed {
+    background: #EF1A12;
+}
+.hiPink{
+    background: #FAAEF9;
+}
+
+.yellow {
+    color: #FFF907;
+}
+.dblu {
+    color: #050038;
+}
+.blue {
+    color: #4B59EE;
+}
+.red {
+    color: #EF1A12;
+}
+.pink {
+    color: #FAAEF9;
+}
+.step {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1em;
+    float: left;
+    font-size: 0.75em;
+    padding: 0.5em 0 0.2em 1em;
+    font-family: "Ginto Nord";
+}
+
+.testimonial {
+		color:white;
+}
