@@ -2,7 +2,7 @@
  .heroElevator, .left {
     text-align: left;
 }
-.white, span.white {
+.white, span .white {
 	color:#ffffff;
 }
 
