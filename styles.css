@@ -192,14 +192,14 @@ a:hover, a:focus {
     display: block;
     padding: 1em;
     margin-top: 1.25em;
-    border-top: border: 1px solid #011627;
+    border-top: 1px solid #011627;
 }
 .pricing--karma .pricing__sentence {
     margin: 0;
     padding: 0.2em 0 0 0;
     font-size: 1.5em;
     line-height: 1em;
-    border-bottom: border: 1px solid #011627;
+    border-bottom: 1px solid #011627;
 }
 .pricing--karma .pricing__feature-list {
     margin: 0;
