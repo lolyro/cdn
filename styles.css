@@ -2,6 +2,10 @@
  .heroElevator, .left {
     text-align: left;
 }
+.white, span.white {
+	color:#ffffff;
+}
+
 .hiYell, h3 span {
     background: #FFF907;
 }
