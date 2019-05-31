@@ -4,7 +4,10 @@
 }
 @font-face {
   font-family: Apercu Pro;
-  src: url(https://github.com/lolyro/cdn/blob/master/Apercu%20Pro/Apercu%20Pro%20Regular.otf);
+  src: url('https://github.com/lolyro/cdn/blob/master/Apercu%20Pro/Apercu%20Pro%20Regular.otf');
+}
+h1{
+font-family:"Apercu Pro";
 }
 .white, span .white {
 	color:#ffffff;
