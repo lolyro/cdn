@@ -2,6 +2,10 @@
  .heroElevator, .left {
     text-align: left;
 }
+@font-face {
+  font-family: Apercu Pro;
+  src: url(https://github.com/lolyro/cdn/blob/master/Apercu%20Pro/Apercu%20Pro%20Regular.otf);
+}
 .white, span .white {
 	color:#ffffff;
 }
